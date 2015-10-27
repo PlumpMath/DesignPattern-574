@@ -12,5 +12,5 @@ public class TestATMMachine {
 		atmMachine.insertCard();
 		atmMachine.insertPin(1234);
 		atmMachine.requestCash(2000);
-	}
+	} 
 }
